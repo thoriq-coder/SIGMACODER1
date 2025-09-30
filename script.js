@@ -1,1 +1,7 @@
-
+<div class="kartu-profil">
+    <img src="HYMNE-TAMANSISWA.jpg" alt="Foto profil saya">
+    <h1>Nama Lengkap Anda</h1>
+    <p>Siswa SMA TAMANSISWA yang terbaik dengan teknologi.Yokoso watashi no website wa hajimete da!</p>
+    <a href="hhtps://www.instagram.com/m.aththoriq?!igsh=MWc0bmc3dWomOm0xZQ==">Kunjungi Instagram Saya</a>
+    <button id="sapaButton">Sapa Saya!</button>
+</div>  
